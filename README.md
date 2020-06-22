@@ -1,1 +1,2 @@
-# BounceOff_Rectangles
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
